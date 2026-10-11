@@ -8,7 +8,7 @@ The calculator also includes input validation, error handling for division by ze
 
 My purpose for creating this software was to practice C++ syntax and understand how different programming concepts work together. Through this project, I learned how to use variables, expressions, conditional statements, loops, functions, classes, vectors, and file input and output. I also practiced handling invalid user input and organizing code into reusable methods.
 
-[Software Demo Video](http://youtube.link.goes.here)
+
 
 ## Development Environment
 
